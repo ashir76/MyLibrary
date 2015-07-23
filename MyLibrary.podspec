@@ -10,18 +10,13 @@
 Pod::Spec.new do |s|
   s.name             = "MyLibrary"
   s.version          = "0.1.0"
-  s.summary          = "A short description of MyLibrary."
-  s.description      = <<-DESC
-                       An optional longer description of MyLibrary
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
-                       DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/MyLibrary"
+  s.summary          = "Adsf sqwrfhn sdfjk jwegsldkfjweighdsg sdewkghkjhds gew klsdgj e ijlij"
+  s.description      = "adsasd asd fdafadsg sadg sdg sdag sdag asdge sadgf sadg ewg sadg sdg sdg sadg sadg aseg sdg asdg sadg asdg sge asdg ewag sadg dswe aewg ewa sdag ew dsag ewhthgstd rgefsd "
+  s.homepage         = "https://github.com/ashir76/MyLibrary"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Ashir76" => "ashir76@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/MyLibrary.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/ashir76/MyLibrary.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
