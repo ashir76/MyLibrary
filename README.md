@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyLibrary
 
 [![CI Status](http://img.shields.io/travis/Ashir76/MyLibrary.svg?style=flat)](https://travis-ci.org/Ashir76/MyLibrary)
@@ -27,3 +28,7 @@ Ashir76, ashir76@gmail.com
 ## License
 
 MyLibrary is available under the MIT license. See the LICENSE file for more info.
+=======
+test
+
+>>>>>>> 51b731407d0354c3e559c98f6ae693f40d8c140a
